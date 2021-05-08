@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development  
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on some real world work
-- 📫 How to reach me email me @ sshashwat004@gmail.com
+- 📫 Reach me @ sshashwat004@gmail.com
 
 <!---
 Shashwat-Sharma3108/Shashwat-Sharma3108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
